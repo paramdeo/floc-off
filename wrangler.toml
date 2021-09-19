@@ -1,0 +1,6 @@
+name = "floc-off"
+type = "javascript"
+route = ""
+zone_id = ""
+workers_dev = true
+compatibility_date = "2021-09-19"
